@@ -1,0 +1,8 @@
+.idea
+.bsp
+.terraform
+project
+volume
+target
+terraform.tfstate*
+.terraform.lock.hcl
